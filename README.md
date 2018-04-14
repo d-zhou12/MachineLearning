@@ -11,3 +11,7 @@
 6.logesiticRegression
 
 7.svm
+
+8.adaBoost
+
+9.EM algorithm
